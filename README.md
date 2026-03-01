@@ -1,5 +1,5 @@
 👋 Hi, I’m Israr Fatima
-🌟 A first-year Computer Science student passionate about coding and learning new technologies
+🌟 A 3rd-year Computer Science student passionate about coding and learning new technologies
 🔍 Currently exploring various programming languages and tools
 🤝 Open to collaborations and opportunities to work on interesting projects
 📬 Feel free to reach out to me here or via my email [israrfatima462@gmail.com]
